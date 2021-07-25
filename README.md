@@ -6,7 +6,7 @@
 
 - 😍I'm interested in **Devops**
 
-- 👨‍💻 All of my projects are available at [github](https://github.com/alianjo)
+- 👨‍💻 All of my projects are available at my [github](https://github.com/alianjo)
 
 - 📫 How to reach me **ali.anjo@yahoo.com**
  
