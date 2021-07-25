@@ -7,9 +7,9 @@
 - I'm interested in **Devops**
 
 - 👨‍💻 All of my projects are available at [https://github.com/alianjo](https://github.com/alianjo)
-- 
+
 - 👨‍💼 my Linkedin link **https://www.linkedin.com/in/ali-anjo**
-- 
+
 - 📫 How to reach me **ali.anjo@yahoo.com**
 
 <h3 align="left">Connect with me:</h3>
