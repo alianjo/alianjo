@@ -7,11 +7,9 @@
 - I'm interested in **Devops**
 
 - 👨‍💻 All of my projects are available at [https://github.com/alianjo](https://github.com/alianjo)
-
-- ⚡ Fun fact [I try alway be my self☺](I try alway be my self☺)
-
+- 
 - 👨‍💼 my Linkedin link **https://www.linkedin.com/in/ali-anjo**
-
+- 
 - 📫 How to reach me **ali.anjo@yahoo.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -26,4 +24,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alianjo&show_icons=true&locale=en" alt="alianjo" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alianjo&" alt="alianjo" /></p>
+
