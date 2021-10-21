@@ -2,6 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alianjo&label=Profile%20views&color=0e75b6&style=flat" alt="alianjo" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alianjo" alt="alianjo" /></a> </p>
+![ca0060f3414e6e20b75983acddafad53](https://user-images.githubusercontent.com/69678339/138288415-9b1b95ef-ba35-4850-a72b-a2f11add2d33.gif)
 
 
 - 😍I'm interested in **Devops**
