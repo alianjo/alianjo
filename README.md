@@ -1,11 +1,6 @@
 <h1 align="center">Hi there👋, I'm Ali anjo</h1>
 
-
-![Visits](https://badges.pufler.dev/visits/ssbostan/alianjo)
 ![Repos](https://badges.pufler.dev/repos/alianjo)
-![Gists](https://badges.pufler.dev/gists/alianjo)
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alianjo&label=Profile%20views&color=0e75b6&style=flat" alt="alianjo" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alianjo" alt="alianjo" /></a> </p>
