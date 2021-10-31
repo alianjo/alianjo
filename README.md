@@ -1,5 +1,10 @@
 <h1 align="center">Hi there👋, I'm Ali anjo</h1>
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alianjo)
+
+
+![Visits](https://badges.pufler.dev/visits/ssbostan/alianjo)
+![Repos](https://badges.pufler.dev/repos/alianjo)
+![Gists](https://badges.pufler.dev/gists/alianjo)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alianjo&label=Profile%20views&color=0e75b6&style=flat" alt="alianjo" /> </p>
 
