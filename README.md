@@ -4,6 +4,14 @@
 ![Repos](https://badges.pufler.dev/repos/alianjo)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alianjo&label=Profile%20views&color=0e75b6&style=flat" alt="alianjo" /> </p>
 
+- 😍I'm interested in **Devops**
+
+- 👨‍💻 All of my projects are available at my [github](https://github.com/alianjo)
+
+- 📫 How to reach me **ali.anjo@yahoo.com**
+ 
+- 👨‍💼 my [linkedin](https://www.linkedin.com/in/ali-anjo)
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alianjo&show_icons=true&locale=en" alt="alianjo" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alianjo&show_icons=true&locale=en&layout=compact" alt="alianjo" /></p>
 
@@ -13,13 +21,7 @@
 
 
 
-- 😍I'm interested in **Devops**
 
-- 👨‍💻 All of my projects are available at my [github](https://github.com/alianjo)
-
-- 📫 How to reach me **ali.anjo@yahoo.com**
- 
-- 👨‍💼 my [linkedin](https://www.linkedin.com/in/ali-anjo)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
