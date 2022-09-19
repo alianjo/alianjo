@@ -4,7 +4,7 @@
 ![Repos](https://badges.pufler.dev/repos/alianjo)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alianjo&label=Profile%20views&color=0e75b6&style=flat" alt="alianjo" /> </p>
 
-- 😍I'm interested in **Devops**
+- 😍 **Devops** and Cloud development
 
 - 👨‍💻 All of my projects are available at my [github](https://github.com/alianjo)
 
