@@ -1,7 +1,6 @@
 <h1 align="center">Hi there👋, I'm Ali anjo</h1>
 
 
-#![Repos](https://badges.pufler.dev/repos/alianjo)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alianjo&label=Profile%20views&color=0e75b6&style=flat" alt="alianjo" /> </p>
 
 - 😍 **Devops** and Cloud development
